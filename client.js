@@ -20,5 +20,13 @@ const connect = function () {
     // code that does something when the connection is first established
   });
 
+  conn.on("connect", () => {
+    conn.write('Name: AJM')
+  })
+
   return conn;
 };
+
+
+
+module.exports = {connect}
