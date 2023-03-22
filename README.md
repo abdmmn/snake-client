@@ -8,8 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["https://github.com/abdmmn/snake-client/blob/main/Screen%20Shot%202023-03-09%20at%201.26.34%20PM.png"](#)
-!["https://github.com/abdmmn/snake-client/blob/main/Screen%20Shot%202023-03-09%20at%201.24.52%20PM.png"](#)
+Screenshots can be viewed in the "Screeshots" Folder.
 
 
 ## Getting Started
